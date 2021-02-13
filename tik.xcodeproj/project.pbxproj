@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C5CB22325D817650099E95F /* stVc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5CB22225D817650099E95F /* stVc.swift */; };
 		4CAD62AE25D78A7500CADF3C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CAD62AD25D78A7500CADF3C /* AppDelegate.swift */; };
 		4CAD62B025D78A7500CADF3C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CAD62AF25D78A7500CADF3C /* SceneDelegate.swift */; };
 		4CAD62B225D78A7500CADF3C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CAD62B125D78A7500CADF3C /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4C5CB22225D817650099E95F /* stVc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stVc.swift; sourceTree = "<group>"; };
 		4CAD62AA25D78A7500CADF3C /* tik.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tik.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CAD62AD25D78A7500CADF3C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4CAD62AF25D78A7500CADF3C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				4CAD62AD25D78A7500CADF3C /* AppDelegate.swift */,
 				4CAD62AF25D78A7500CADF3C /* SceneDelegate.swift */,
 				4CAD62B125D78A7500CADF3C /* ViewController.swift */,
+				4C5CB22225D817650099E95F /* stVc.swift */,
 				4CAD62B325D78A7500CADF3C /* Main.storyboard */,
 				4CAD62B925D78A7700CADF3C /* Assets.xcassets */,
 				4CAD62BB25D78A7700CADF3C /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C5CB22325D817650099E95F /* stVc.swift in Sources */,
 				4CAD62B825D78A7500CADF3C /* tik.xcdatamodeld in Sources */,
 				4CAD62B225D78A7500CADF3C /* ViewController.swift in Sources */,
 				4CAD62AE25D78A7500CADF3C /* AppDelegate.swift in Sources */,
